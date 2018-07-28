@@ -1,0 +1,214 @@
+$name : Morlech Encounter
+$author : ChaosGenerators
+$description : Encounter for the Feeding Caverns of the Fortress Beyond Megadungeon
+$amount : 5
+$picture : http://pieanddragon.net/chaos_generators_128.jpg
+$button : Meet an Encounter
+ 
+// Join Chaos Generators on Patreon at https://www.patreon.com/ChaosGen
+ 
+$kingsTomb
+Banshee
+Shadows
+Swarm of Bats
+Swarm of Rats
+Giant Bats {50%}
+Giant Rats {50%}
+Wolves {50%}
+Dire Wolves {50%}
+Amber Guards {50%}
+Specters and [0-1] wraiths
+Vampire Spawn and [kingsTomb]
+Elven Wights and Zombies
+ 
+$caveFungi
+Gas Spores
+Violet Fungi
+Myconids
+Awakened Fungi
+Cave Dryad
+Myconid Servant
+Ascomoid (FEF)
+Fungoid (FEF)
+Fungus Bat (FEF)
+Fungal Gargoyle (FEF)
+Green Brain (FEF)
+Kampfult (FEF)
+Phycomid (FEF)
+Russet Mold (FEF)
+Shroom (FEF
+Vegepygmy (FEF)
+Yellow-Musk Creeper (FEF)
+Shrieker
+Shrieker and [caveFungi]
+ 
+$caveBeast
+Ankhegs
+Darkmantle
+Carrion Crawler
+Gricks
+Hook Horrors
+Intellect Devourers (30% in host)
+Piercers
+Rust Monster
+Stirges
+Apes
+Death Dogs
+Giant Badgers
+Giant Bats
+Giant Bats
+Giant Centipedes
+Giant Fire Beetles
+Giant Lizards
+Giant Poisonous Snakes
+Giant Rats
+Giant Scorpions
+Giant Spiders
+Giant Wolf Spiders
+Giant Weasels
+Swarm of Bats
+Swarm of Snakes
+Swarm of Beetles
+Swarm of Centipedes
+Swarm of Spiders
+Swarm of Rats
+Giant Boring Beetle
+Giant Flying Fire Beetles
+Giant Water Beetle
+Cave Cricket [FEF]
+Cave Fisher [FEF]
+Cave Leech [FEF]
+Grue [Type 1] (FEF)
+Jelly, Mustard (FEF)
+Blood Pudding (FEF)
+Slithering Tracker (FEF)
+Ectoplasm Pudding (FEF)
+Olive Slime + Zombies (FEF)
+ 
+$caveMonster
+Basilisk
+Cockatrice
+Ettercaps and Spiders
+Flumphs
+Dust Mephits
+Mud Mephits {50%}
+Black Pudding
+Ochre Jelly
+Grey Ooze
+Grey Ooze, Psionic {50%}
+Gelatinous Cube
+Otyugh
+Poltergeist
+Poltergeist
+Will-o-wisp
+Will-o-wisp
+Galeb Duhr
+Mimic
+[morlechFey]
+[morlechFey]
+ 
+$redeemers
+Green Gargoyles (FEF)
+Stygian Skeletons (FEF) {50%}
+Whiteskull Elite
+Ioun Sentinel {50%}
+Copper Coin Golem {50%}
+Copper Coin Golem and [redeemers] {50%}
+Githyanki Mercenaries {50%}
+Githyanki Mercenaries and Githyanki Knight {50%}
+Redeemers Patrol (Redeemer Sentries, 70% of Foundling of Lysan, 40% of Redeemed, 25% of Lysan Thrice-Born, 5% of Redeemer Veteran
+ 
+$yuanTiPortal
+Yuan-ti {25%}
+"JungleEncounter" {50%}
+[snakeBeast]
+ 
+$zeltondarPortal
+Adventurers from Zeltondar
+-->City Encounter {50%}
+Redeemed from Zeltondar
+Redeemed from Zeltondar
+-->SnakeCultists
+ 
+$bleedingTearsPortal
+Yuan-ti
+-->Swamp Beasts
+-->Swamp Encounter
+ 
+$riverCaves
+Swarm of Quippers
+Water Elemental {50%}
+-->Swamp Encounter {50%}
+[snakeBeast]
+-->Morlech Fey
+[genericLevel1Encounter]
+[servantsOfEbonheart]
+[servantsOfEbonheart]
+-->FeedingCaves
+ 
+$servantsOfEbonheart
+Doppelganger
+Chicago, Bugbear Fallen Paladin of Zehir and Bugbears
+Yuan-ti
+Yuan-ti
+Godzuke and serpentguards
+Godzuke and serpentguards
+Ebonheart, Black Dragon {50%}
+Bullywugs
+Bullywugs
+ 
+$morlechFey
+Cave Dryad (Mor)
+Labyrinth Sprite (Mor)
+Mite (FEF)
+Mite, Pestie (FEF)
+Morlech Imp (Mor)
+Pech (Mor)
+Shadow Urd (Mor)
+ 
+$snakeBeast
+Hydra{50%}
+Snake Swarm
+Giant Constrictor Snake
+Constrictor Snake
+Giant Poisonous Snake
+Flying Snake
+"Giant Flying Snake (DET)
+Snake Mutant / Experiment (DET)
+Snake Mutant / Experiment (DET)
+Amphisbaena (DET)
+Giant Spitting Jaculi (DET)
+Hollow Serpent (DET) {50%}
+Spitting Snake (DET)
+Sailsnake (DET)
+Night Serpent (DET) {50%}
+Boalisk (FEF)
+Hanu-Naga (FEF) {50%}
+Bone Naga {50%}
+ 
+$genericLevel1Encounter
+Adventurers from Portal, Shallmar Village or Complex {25%}
+Arcane Eye of the Historian {25%}
+Yjiggl the Illithid and Servants {25%}
+Pseudodragon of Lysan {25%}
+[kingsTomb]
+[caveFungi]
+[caveFungi]
+[caveBeast]
+[caveBeast]
+-->Level 2 Encounter {50%}
+[caveMonster]
+[redeemers]
+[yuanTiPortal]
+[zeltondarPortal] {50%}
+[bleedingTearsPortal] {25%}
+[servantsOfEbonheart] {50%}
+[morlechFey] {50%}
+[snakeBeast] {50%}
+-->Beyonders Radiant Deepway Patrol {50%}
+-->Door Maker Encounter {50%}
+-->Hunters of the Chained One
+-->Beetle Patrol
+ 
+$FeedingCaverns
+[genericLevel1Encounter]
