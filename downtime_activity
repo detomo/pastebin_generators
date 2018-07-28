@@ -1,0 +1,156 @@
+------------
+$name : Character Downtime Suggestion
+$author : ChaosGenerators
+$description : Unsure what to do in RPG downtime? Here are some ideas
+$amount : 5
+$picture : http://pieanddragon.net/chaos_generators_128.jpg
+$button : Spend Money
+// Join Chaos Generators on Patreon at https://www.patreon.com/ChaosGen
+ http://orteil.dashnet.org/randomgen/?do=create
+$trophyBuilding
+a tavern
+an inn
+a circus
+a mansion
+a wizard's tower
+a temple to your deity
+a temple to the local deity
+traps for your home base
+a fortified wagon
+a ship
+an alchemist laboratory
+an expensive carriage
+a small castle
+a masterwork jewelled weapon
+a library
+a mine
+a collection of expensive clothes
+ 
+$rivals
+Start a rivalry with an existing NPC
+Keep a close eye on an existing rival
+Create rumours about an existing rival
+Work against an existing rival
+Break into the home or work place of a rival
+Pay for information about the activities of an existing rival
+Employ one or more spies to keen an eye on an existing rival
+ 
+$theWeird
+Build a dungeon in the sewers for low level parties
+Copy what someone else is doing but go one better
+Hire low level adventuring groups and send them on bizarre missions
+Challenge all-comers at the fighting pits
+Start creating an art masterpiece
+Get work at the local tavern or shop
+Start up your own criminal gang
+Raise an army to use against foes and rivals
+Paint or pay for portraits of local important figures
+ 
+$helpingPeople
+Help the authorities investigate crimes
+Give back to the community by adopting orphans
+Share what you've learnt from adventuring with the community
+Join in with local patrols
+Help out at the local temple
+Spend time training the local security forces
+Sponsor a local orphanage
+Work to further the teachings of your faith
+Help another member of your group with their project or plans
+Give all of your wealth to the poor
+ 
+$beingUnhelpful
+Spread fake rumours about the rest of the party
+Spread rumours about NPCs your character doesn't like
+Create great pieces of "celebrity art" and put them up for auction
+Try to start out a new cult in town
+Try to covert as many locals as you can to your faith
+Shadow another member of the group and take notes on all they do
+ 
+$magicItems
+Spend time researching famous magic items you want
+Create or hire someone to create minor items no-one wants to use
+Research cursed items no-one will ever want
+Research magic items that other members of the party might want
+Spend time looking for potential buyers and sellers of magic items
+ 
+$research
+Research foes your group might meet
+Research foes your group want to hunt down
+Research past heroes who might have had good magic items
+Research dungeons where many others have died
+Research the most powerful adventurers in the land
+ 
+$theGroup
+Create contingency plans for the group in combat situations
+Follow the shadiest member of the party everywhere
+Insist on group training sessions to prepare for dangerous situations
+Interview locals to use as hirelings for the next adventure
+Find a new pet mascot for the group
+Sign your group up to every quest available in the area
+Create or commission songs that celebrate the group's deeds
+Buy or find a place for the group to use as a base
+Find a [alchemist|healing priest|torchbearer|mule-handler|shieldbearer] to accompany the group on next adventure
+Create a "group fund" for healing, magic items and restoring the fallen
+Paint or pay for portraits of the group
+ 
+$relaxing
+[Relax|Carouse] in the most [dangerous|exclusive|expensive] places in town
+Spend as much as you can in one tavern, inn or house of ill repute
+Gamble on small stakes and get to know some of the interesting locals
+Join as many high-stakes gambling matches as you can
+Have a competition to see who can steal the best thing from the taverns in town
+Eat as much and as well as you can
+Throw the biggest party the locals have seen in the last year
+Rent the biggest mansion you can and live well while the money lasts
+Spend your money on spas, nice clothes, massages and perfumed oils
+Go on a epic binge of hedonism you will remember for the rest of your life
+ 
+$selfImprovement
+Learn a language of no use to you
+Learn a language your companions also speak
+Learn to play a loud musical instrument
+Learn to play an unusual musical instrument
+Learn to play an impractical musical instrument
+Become an expert at a dice or card game
+Become an expert at a game of skill
+ 
+$empireBuilding
+Build up many local contacts in different places
+Build or grow a large network of informants and spies
+Build or grow a small but loyal group of informants and spies
+Cultivate friendships with the local nobles and merchants
+Look for a nearby noble title you can buy or "inherit"
+Look for a wealthy heir or heiress to marry
+Develop contacts and allies with the local [thieves' guild|merchant guild|nobility|criminal underground|mercenaries|military]
+fund or start a group of rebels you can control in the future
+Buy expensive gifts for local NPCs you wish to impresss
+Find or buy a large piece of land on which to build your future stronghold
+ 
+$business
+Buy as much land as you can afford, choosing quantity over quality
+Sell useful information you have picked up on your adventures, to whoever wants it
+Find spellcasters, temples or guilds who will be willing to provide you with magic for your future plans
+Convert your money into gems and jewellery
+Look for a well-located estate you can acquire in the future
+Find or buy places in several cities to start your mercantile empire
+Work on becoming more "respectable" with the right clothes, lodgings and friends.
+Find or cultivate business partners for merchant ventures
+ 
+$passingTime
+Buy or build [trophyBuilding]
+Find [trophyBuilding] and convince others to buy it with you
+[theWeird]
+[helpingPeople]
+[selfImprovement]
+[rivals]
+[beingUnhelpful]
+[theGroup]
+[research]
+[relaxing]
+[magicItems]
+[empireBuilding]
+[business]
+[passingTime] and [passingTime]
+ 
+$downtimeActivity
+<br>[passingTime]<br>
