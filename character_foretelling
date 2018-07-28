@@ -1,0 +1,231 @@
+$name : Character Foretelling
+$author : ChaosGenerators
+$description : Creates a foretelling for a character
+$amount : 5
+$picture : http://pieanddragon.net/chaos_generators_128.jpg
+$button : Foretell!
+ 
+// Join Chaos Generators on Patreon at https://www.patreon.com/ChaosGen
+ 
+$history
+Before you were born
+When you were born
+When you were a young child
+When a loved one died
+When your beloved pet died
+When you came of age
+When you were named
+A generation ago
+When a sibling was born
+When your family was cursed
+When you left home
+When you spoke your first word
+When you were lost as a child
+When your parents first met
+During a storm
+At a great festival
+When you took your first steps
+During an eclipse of the sun
+During a full moon
+ 
+ 
+$soothsayer
+[soothsayer desc] dragon
+[soothsayer desc] oracle
+[soothsayer desc] midwife
+demon
+[soothsayer desc] ancestor
+[soothsayer desc] spirit
+[soothsayer desc] elder
+[soothsayer desc] witch
+[talking|ancient] statue
+[soothsayer desc] priest
+family elder
+[soothsayer desc] family member
+distant cousin
+[soothsayer desc] beggar
+talking [animal]
+possessed [animal]
+[power desc] sorcerer
+dark cult
+[soothsayer desc] cult leader
+[soothsayer desc] elf
+[soothsayer desc] dwarf
+[soothsayer desc] fey
+[soothsayer desc] druid
+[soothsayer desc] seer
+[soothsayer desc] scholar
+[soothsayer desc] nomad
+[soothsayer desc] shaman
+[soothsayer desc] hermit
+[soothsayer desc] ghost
+[soothsayer desc] sage
+ 
+$soothsayer desc
+respected
+ancient
+evil
+cursed
+powerful
+cruel
+blind
+mad
+holy
+dying
+undead
+wandering
+blessed
+outcast
+feared
+mysterious
+old
+sinister
+possessed
+ 
+$power desc
+respected
+ancient
+evil
+cursed
+cruel
+blind
+mad
+holy
+undead
+great
+greedy
+hated
+pious
+blessed
+[red|green|black|white|blue|grey|
+[ruby|diamond|emerald|jet|obsidian|jade]
+ 
+$great figure
+king
+queen
+princess
+prince
+giant
+troll
+emperor
+dragon
+wizard
+archmage
+demon
+high priest
+prophet
+god
+warlord
+titan
+guildmaster
+lord
+lady
+ghost
+hero
+mayor
+singer
+sage
+knight
+captain
+general
+ 
+ 
+$event
+your heart was first broken
+your weapon shattered {20%}
+the [[Animal]|[greatone]] walked with the [[Animal]|[Great figure]]
+the danger was greatest
+the [greatone] wept
+the [greatone] fell
+the [greatone] was victorious
+the [greatone] knelt
+the [greatone] rose again
+the [greatone] sent for help
+the [greatone] slew the [animal]
+the [greatone] betrayed you
+a Slumbering [Great figure] awoke
+you achieved your greatest victory
+you vanquished your arch-enemy
+you faced the [greatone]
+the sky lost it's colour
+you lost your faith
+the [greatone] slew the [greatone]
+you found your true love
+the [Animal] spurned you
+the [Animal] favoured you
+ 
+$greatone
+[Power desc] [Great figure]
+ 
+$animal
+fish
+bear
+goat
+dog
+rabbit
+lion
+horse
+bull
+wolf
+bat
+spider
+ram
+boar
+fox
+eagle
+hawk
+stag
+ape
+crocodile
+ 
+ 
+$outcome
+find your death
+lose a loved one
+lose everything
+betray all you held dear
+find great wealth
+find a new love
+save the soul of another
+break a powerful curse
+face your greatest trial
+be outcast from your people
+find a hidden strength
+gain the favour of the [greatone]
+be hunted by the [greatone]
+rise again
+achieve your greatest feat
+be outcast from the land
+be chosen by a great power
+fulfil an ancient prophecy
+never know [emotion] again
+be filled with a great [emotion]
+rarely find [emotion] again
+ 
+ 
+$emotion
+love
+fear
+hate
+anger
+greed
+courage
+desire
+peace
+ 
+$prophecy
+foretold
+warned
+predicted
+dreamt
+prophesized
+announced
+divined
+proclaimed
+revealed
+had visions
+read omens
+ordained
+ 
+$foretelling
+[history], [an] <b>[soothsayer]</b> [prophecy] that when <b>[event]</b>, you would <b>[outcome]</b>.<br><br>
