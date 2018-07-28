@@ -1,0 +1,149 @@
+------------
+$name : Something Happens! In the City
+$author : ChaosGenerators
+$description : You're walking down the street and...
+$amount : 5
+$picture : http://pieanddragon.net/chaos_generators_128.jpg
+$button : Something Else Happens!
+// Join Chaos Generators on Patreon at https://www.patreon.com/ChaosGen
+ 
+$streetEntertainer
+an acrobat
+an actor
+an animal trainer
+an artist
+a minstrel
+a dancer
+a fortune teller
+an illusionist
+a jester
+a juggler
+a musician
+a poet
+a sculptor
+a singer
+a storyteller
+a sword swallower
+ 
+$ruffian
+a street urchin
+a beggar
+a pickpocket
+a footpad
+a starving peasant
+a vagabond
+[streetEntertainer]
+a local guide
+ 
+$townsfolk
+[ruffian]
+[streetEntertainer]
+a drunken [sailor|miner|soldier|guard|local]
+a watchman
+a noble
+a guard
+a messenger
+a town crier
+a thug
+a street trader
+a rich merchant
+a poor merchant
+a bailiff
+a minor spellcaster
+a priest
+an artisan
+a journeyman
+an apprentice artisan
+a bounty hunter
+a wagon driver
+a street entertainer
+a labourer
+a lawyer
+a peasant
+a rat catcher
+a scribe
+a servant
+a student
+a vagabond
+a minstrel
+a fence
+a knight
+a politician
+a healer
+a spy
+a veteran warrior
+a local guide
+a smuggler
+a doom-sayer
+an artist
+a musician
+a fortune teller
+ 
+$religion
+A religious procession blocks the PC's path
+A religious procession is starting
+An angry priest addresses the PCs
+A vagabond priests asks the PCs for donations
+A newly-converted [Townsfolk] tries to convert others to their faith
+ 
+$criminalEvent
+[ruffian] tries to pick the pockets of a PC
+[townsfolk] gets mugged near the PCs
+Drunken [sailors|miners|soldiers|locals] harass [the PCs|[townsfolk]]
+[ruffian] runs by the party chased by [townsfolk]
+A local guide invites the PCs to see an illegal pit fight
+ 
+$crowds
+A large crowd starts to form around [townsfolk]
+An angry mob starts to form
+A large crowd starts to form around an outspoken priest
+A disgraced politician is being given rough justice by some locals
+[streetEntertainer] is attracting a crowd
+A doom-sayer is attracting a large crowd
+ 
+$information
+The town crier passes by with important news
+[ruffian] offers news (rumours) in return for coin
+[ruffian] offers to show PCs around the local area
+ 
+$trade
+A trade caravan or ship is just arriving from afar carrying news and exotic goods
+A trade caravan or ship is getting ready to depart town
+Goods are being unloaded from a ship or caravan
+ 
+$streetVendors
+An interesting market stall is the site of an [argument|exotic good|stolen goods|a foreigner]
+A street food vendor tries to strike up conversation with a PC
+ 
+$theLaw
+A patrol of guards passes by
+A patrol of guards is harassing [ruffian]
+A patrol of guards is harassing [townsfolk]
+A patrol of guards stops the PCs
+A patrol of guards moves on [streetEntertainer]
+ 
+$actOfGod
+It starts to rain/hail/snow
+A shout goes up "fire! fire!" and smoke can be seen over nearby buildings
+ 
+$otherEvent
+A cart overturns by the party!
+A group of drunken young nobles passes by and insults the PCs
+A group of beggars start fighting over a shiny object
+[townsfolk] tries to strike up conversation with a PC
+A funeral procession passes by. An [important local|known NPC|hated figure] is being buried
+A [cat|dog|monkey|goat] starts following one of the PCs
+ 
+$cityEvent
+[criminalEvent]
+[crowds]
+[information]
+[trade]
+[streetVendors]
+[actOfGod]
+[theLaw]
+[cityEvent]
+[religion]
+ 
+$somethingHappens
+<br>[cityEvent]<br>
