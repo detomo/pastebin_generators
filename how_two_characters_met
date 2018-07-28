@@ -1,0 +1,184 @@
+------------
+$name : How Two Characters Met
+$author : ChaosGenerators
+$description : Creates the way two characters know each other
+$amount : 5
+$picture : http://pieanddragon.net/chaos_generators_128.jpg
+$button : Meet Again
+// Join Chaos Generators on Patreon at https://www.patreon.com/ChaosGen
+ 
+$bondingevent
+got drunk together
+got into a large brawl
+smoked some herbs
+had an emotional conversation
+had a argument about [politics|religion|something pointless|sport|music|money]
+got into trouble with the law
+met some strange characters
+got several people drunk
+shared life stories
+played in the same game
+got into trouble together
+dressed up as [pirates|animals|monsters|beggars|priests|soldiers|wizards]
+[had an argument|came to blows|had a heated discussion] about who was the better [cook|fighter|joke-teller|drinker|looking|gambler]
+ 
+$bigevent
+funeral
+religious festival
+wedding
+tournament
+fair
+annual festival
+coming of age ceremony
+birthday
+celebration
+feast
+[winter|summer] solstice
+[spring|autumn] equinox
+formal dinner
+potluck dinner
+family gathering
+contest
+ 
+$eventfulnight
+swore never to talk about it again
+wrote a poem together
+got matching tattoos
+swore a blood oath together
+decided to form an adventuring group one day
+promised to help the other if they were ever in need
+are both very quiet about the details
+made an oath to go on a dangerous quest
+only remember a few details
+woke with a lingering [2-4] day hangover
+had the best night of your lives
+then shared a prison cell for [1-5] days
+woke up in someone else's clothes
+woke up with unexplained bruises
+ 
+$locdesc
+large
+small
+busy
+quiet
+coastal
+mountain
+isolated
+ 
+$homelocation
+[an] [locdesc] village
+[an] [locdesc] temple
+[an] [locdesc] city
+the wilderness
+[an] [locdesc] town
+an army camp
+[an] [locdesc] fortress
+[an] [locdesc] farm
+a group of nomadic travellers
+a religious cult
+[an] [locdesc] country estate
+a [Lord's|Lady's] palace
+the city streets
+ 
+$location
+at a tavern
+in a marketplace
+on the road
+in a temple
+on a [boat|ship|ferry]
+the docks
+in a shop
+somewhere you shouldn't have been
+on the street
+ 
+$timespan
+recently
+long ago
+a while back
+a couple of months ago
+a few months ago
+a couple of years ago
+a few years ago
+a few weeks ago
+last year
+last month
+when you were young
+ 
+$mainorg
+an elite group
+a military force
+a secret cult
+a group of adventurers
+a religious order
+ 
+$familyrelation
+distant cousins
+cousins
+closely related
+part of the same tribe
+ 
+$jointactivity
+worked as [guards|volunteers|fruit pickers|bar staff]
+travelled
+were prisoners
+lived
+ 
+$familyties
+you are [familyrelation] and last met at [an] [bigevent]
+you are [familyrelation] who met recently by chance [location]
+you are [familyrelation] by adoption
+one of you was best friends of a [father|mother|aunt|uncle|grandparent|cousin] of the other
+one of you was left a small inheritance by the dead [father|mother|aunt|uncle|grandparent|cousin] of the other
+you are [familyrelation], but in two branches of a feuding family
+ 
+$eventties
+you met each other [timespan] at [an] [bigevent] where you [bondingevent]
+[timespan] one of you helped at [an] [bigevent] where you [bondingevent]
+[timespan] one of you was the centre of [an] [festival|tournament|celebration|coming of age ceremony|birthday] where you [bondingevent]
+ 
+$groupties
+you were both part of [mainorg]
+your mentors were both part of [mainorg]
+you were both unwilling members of [mainorg]
+you were [friends|rivals|associates] in [mainorg]
+your [fathers|mothers] were both part of [mainorg]
+ 
+$heritageties
+you grew up together as [friends|cousins|rivals|best friends|bitter rivals|good friends] in [homelocation]
+ 
+$activityties
+[timespan] you [jointactivity] together and [helped each other out|parted as friends|got into an argument|were part of a tight-knit group]
+you [jointactivity] together for a short while and [bondingevent]
+ 
+$drunkties
+one [eventful|fateful|memorable] [night|afternoon|evening] you [bondingevent] and [eventfulnight]
+ 
+$otherties
+you have a mutual friend who introduced you both at [bigevent]
+you have a mutual friend who  tried to set you both up on a date.
+you have never met but have been writing letters to each other
+you have a mutual enemy and met because of that
+you have a mutual friend who gave one of you a letter of introduction to the other
+you have a mutual friend who owes you both money and is currently missing
+you were both linked by a prophet in a prophecy
+you have heard the other mentioned often by a mentor or friend
+you both travelled on a caravan which was robbed by [monsters|bandits|the local military]
+both your [fathers|mothers|mentors] were one-legged war veterans who split the cost of pair of shoes each year
+one night you [bondingevent] and woke tied up with your clothes missing
+met at the [5|6|7|8|9|10|20|25|50|75|100]th annual meeting of the local [Kite Flying|Singing|Joke-Telling|Beer|Book|Chess|Wine] [Appreciation|Promotion|Discussion] [Guild|Group|Society|Organisation]
+ 
+$meetingplace
+[timespan] you met [location] and [bondingevent]
+ 
+$waymet
+[familyties]
+[eventties]
+[groupties]
+[heritageties]
+[activityties]
+[drunkties]
+[otherties]
+[meetingplace]
+ 
+$foretelling
+<br>[Waymet]<br>
